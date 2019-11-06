@@ -16,6 +16,11 @@ public class Hero {
         this.ranking = ranking;
         this.image = image;
     }
+    public Hero()
+    {
+
+    }
+
     public String getName(){
         return name;
     }
